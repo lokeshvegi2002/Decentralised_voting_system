@@ -1,0 +1,6 @@
+{
+  "server": {
+    "baseDir": ["./src", "./build/contracts"],
+    "index": "login.js"
+  }
+}
